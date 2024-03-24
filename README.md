@@ -17,15 +17,20 @@ PNET LAB SETUP AND Integration of devices
 ### Download link of ishare2 from github [ishare2-cli](https://github.com/ishare2-org/ishare2-cli)
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/40259989-5cfe-4dbd-ad7f-9c38f085e7a8)
 
+Open PuTTY and enter the IP address or hostname of your Pnet link in the "Host Name (or IP address)" field.
+Make sure the connection type is set to SSH.
+Click on "Open" to initiate the connection.
+When prompted, enter your username and password to log in to the Pnet link.
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/f7f238a7-0815-48d1-9bb9-6acd596b31d4)
-![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/d3933fd4-ccad-45a3-93c9-4ad03719175f)
-![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/4a73745e-fb6e-4828-a9a6-b627e3f0bce8)
 
-
+Once logged in, you can execute commands to install iShare2
 Download link to using wget
 ```html
 wget -O /usr/sbin/ishare2 https://raw.githubusercontent.com/ishare2-org/ishare2-cli/main/ishare2
 ```
+![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/d3933fd4-ccad-45a3-93c9-4ad03719175f)
+![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/4a73745e-fb6e-4828-a9a6-b627e3f0bce8)
+
 
 ### ishare 2 commands usage and download images
 #### Commands for Search
@@ -35,8 +40,6 @@ ishare2 search dynamips
 ishare2 search iol
 ishare2 search vios
 ```
-
-
 
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/8df2c039-c087-4009-9344-fc177edd3ca7)
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/08cba9d5-83bf-40d3-81c4-dfc6f821c3e4)
