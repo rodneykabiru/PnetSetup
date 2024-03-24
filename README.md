@@ -30,6 +30,32 @@ wget -O /usr/sbin/ishare2 https://raw.githubusercontent.com/ishare2-org/ishare2-
 
 
 ### ishare 2 commands usage and download images
+## ishare2 commands
+
+ishare2 uses the following syntax to execute different actions, each action is explained in detail below:
+
+```bash
+    ishare2 [action] [param1] [param2]
+
+    action:
+      search      : Search for images by type
+      pull        : Download an image by type and number
+      installed   : Show installed images on server
+      labs        : Show labs on server and download images for those labs
+      mylabs      : Same as labs command but using a customized path to labs
+      relicense   : Generate a new iourc license for bin images
+      upgrade     : Retrieves a menu that allows users to upgrade ishare2 and PNETLab VM
+      changelog   : Show the latest changes made to ishare2
+      gui         : Web app to use ishare2 in browser
+      help        : Show useful information
+      test        : Test if ishare2 dependencies are reachable (GitHub, Google Spreadsheets)
+
+    param1:
+      type = all, bin, qemu, dynamips, docker or name
+
+    param2:
+      number = This number can be obtained using ishare2 search <type>
+```
 #### Commands for Search
 ```html
 ishare2 search all
@@ -55,7 +81,6 @@ An example would be the ``` iShare2 search dynamips```. An installation instruct
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/5718dfa3-5826-4029-87fc-f0dfdffb9f66)
 
  ALL NODES SHOULD BE UP AND RUNNING
-
 
 
 
