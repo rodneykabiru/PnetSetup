@@ -29,9 +29,9 @@ wget -O /usr/sbin/ishare2 https://raw.githubusercontent.com/ishare2-org/ishare2-
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/4a73745e-fb6e-4828-a9a6-b627e3f0bce8)
 
 
-### ishare 2 commands usage and download images
+## ishare2 Commands Usage and Download Images
 
-## ishare2 commands
+### ishare2 commands
 
 ishare2 uses the following syntax to execute different actions, each action is explained in detail below:
 
