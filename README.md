@@ -8,6 +8,8 @@ PNET LAB SETUP AND Integration of devices
 2. Download virtualbox from the official site.
 3. import the pnet image to virtualbox
 
+![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/30863651-82e5-4735-89b3-26c99bcb89c1)
+
 <!-- 5. update pnet to the latest version 5.3.11 use winscp sftp to trnsfer the file to the machine from your local machine -->
 
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/91c413f0-34f0-42c4-953a-790c506df41b)
