@@ -1,5 +1,5 @@
 ## PNET LAB IMAGES INSTALLATION STEP BY STEP
-### PNET LAB SETUP AND INTERGRATION OF DEVICES
+### PNET Lab Setup and Integration of Devices
 
 1. Download the pnet image from the official pnet website [pnet image](https://pnetlab.com/pages/download)
 2. Download virtualbox from the official site.[Virtualbox](https://www.virtualbox.org/)
