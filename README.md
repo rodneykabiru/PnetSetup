@@ -5,8 +5,9 @@ PNET LAB SETUP AND Integration of devices
 ```
 
 1. Download the pnet image from the official pnet website [pnet image](https://pnetlab.com/pages/download)
-2. Download virtualbox from the official site.
+2. Download virtualbox from the official site.[Virtualbox](https://www.virtualbox.org/)
 3. import the pnet image to virtualbox
+4. Download Putty from official site [Putty](https://www.putty.org/)
 
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/30863651-82e5-4735-89b3-26c99bcb89c1)
 
