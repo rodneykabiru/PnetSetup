@@ -13,10 +13,10 @@ PNET LAB SETUP AND Integration of devices
 
 <!-- 5. update pnet to the latest version 5.3.11 use winscp sftp to trnsfer the file to the machine from your local machine -->
 
-### Download link of ishare2 from github [ishare2-cli](https://github.com/ishare2-org/ishare2-cli)
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/91c413f0-34f0-42c4-953a-790c506df41b)
-
+### Download link of ishare2 from github [ishare2-cli](https://github.com/ishare2-org/ishare2-cli)
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/40259989-5cfe-4dbd-ad7f-9c38f085e7a8)
+
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/f7f238a7-0815-48d1-9bb9-6acd596b31d4)
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/d3933fd4-ccad-45a3-93c9-4ad03719175f)
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/4a73745e-fb6e-4828-a9a6-b627e3f0bce8)
