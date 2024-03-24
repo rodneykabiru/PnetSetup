@@ -24,7 +24,10 @@ Download link of ishare2 from github [ishare2-cli](https://github.com/ishare2-or
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/4a73745e-fb6e-4828-a9a6-b627e3f0bce8)
 
 
-Download link to using wget [ishare2-cli](wget -O /usr/sbin/ishare2 https://raw.githubusercontent.com/ishare2-org/ishare2-cli/main/ishare2)
+Download link to using wget
+```html
+wget -O /usr/sbin/ishare2 https://raw.githubusercontent.com/ishare2-org/ishare2-cli/main/ishare2
+```
 
 ### ishare 2 commands usage and download images
 #### Commands for Search
