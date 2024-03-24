@@ -52,7 +52,7 @@ ishare2 pull dynamips all
 ishare2 pull  bin all
 ishare2 pull qemu 'number' number include [511,512 879-898]
 ```
-An example would be the ``` iShare2 search dynamips```. An installation instructions command is located at the bottom of the page. You would therefore use ``` iShare2 pull Dynamips all``` to pull all images. For iol, ```ishare2 search iol''', then for the install command, it will be ```ishare2 pull bin all``` For Vios, the installation of images is done one by one. 
+An example would be the ``` iShare2 search dynamips```. An installation instructions command is located at the bottom of the page. You would therefore use ``` iShare2 pull dynamips all``` to pull all images. For iol, ```ishare2 search iol```, then for the install command, it will be ```ishare2 pull bin all```. For Vios, the installation of images is done one by one. 
 
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/170dbd8f-88f5-4b77-b3f1-c76b2d1c7266)
 ![image](https://github.com/rodneykabiru/PnetSetup/assets/25923110/5718dfa3-5826-4029-87fc-f0dfdffb9f66)
