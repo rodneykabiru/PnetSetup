@@ -25,7 +25,7 @@ Download link of ishare2 from github [ishare2-cli](https://github.com/ishare2-or
 Download link to using wget [ishare2-cli](wget -O /usr/sbin/ishare2 https://raw.githubusercontent.com/ishare2-org/ishare2-cli/main/ishare2)
 
 ### ishare 2 commands usage and download images
-''' html
+'''html
 Commands for Search
 ishare2 search all
 ishare2 search dynamips
@@ -39,7 +39,7 @@ ishare2 search vios
 
 ## Commands for installation
 ### N/B remember to utilize search before pulling
-''' html
+'''html
 ishare2 pull dynamips all
 ishare2 pull pull bin all
 ishare2 pull qemu 'number' number include [511,512 879-898]
